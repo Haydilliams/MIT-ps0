@@ -48,7 +48,7 @@ public class RulesOf6005 {
 				return true;
 			} else {
 				return false;
-			} //YES meow IS THIS FOUND IN GIT?
+			} //YES 
 		}
 	}
 
